@@ -1,0 +1,1 @@
+<h2>Xin chào : {{$user_login->name}}</h2>
